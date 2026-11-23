@@ -1,0 +1,78 @@
+[
+  {
+    "file": "click.wav",
+    "archive": "kenney_interfaceSounds.zip",
+    "sourceFile": "Audio/click_003.ogg",
+    "sourceSha256": "2FA929138BC3A0F432696588F66EAC94B8F6D463905EC8808C6461CE4B054292",
+    "sha256": "6901EA5FBAC51753F3D9916FE017ED4FC389A815B644732375A329D7869341AE"
+  },
+  {
+    "file": "pellet.wav",
+    "archive": "kenney_interfaceSounds.zip",
+    "sourceFile": "Audio/pluck_001.ogg",
+    "sourceSha256": "BE97EC4893A02D6ECCFB678DAA76C83E34CB2583B834EC2593D2641DEF739FA4",
+    "sha256": "C21054FD342701D3368907D106F70EE9D61406BCFE854884059A87F46419B77C"
+  },
+  {
+    "file": "coin.wav",
+    "archive": "kenney_interfaceSounds.zip",
+    "sourceFile": "Audio/confirmation_001.ogg",
+    "sourceSha256": "063564703B6094D70718A3E787A55CC9141611E4ECD6B6637F8828F79B4A8C3A",
+    "sha256": "C68D4213529AAAB2F9872F3828E38F749F7FDFCAB8A7DEE850E5F85AD71FFCAE"
+  },
+  {
+    "file": "power-up.wav",
+    "archive": "sci-fi_sounds.zip",
+    "sourceFile": "Audio/forceField_000.ogg",
+    "sourceSha256": "C2916F2A062C8DDD1ACA2826D134FE90847037DB31342726FFB0F9097AFE339C",
+    "sha256": "2701CAA194D4A77AB946A6957BB4848AF219FD7871FEFCFBFEA37F304C574ABB"
+  },
+  {
+    "file": "hit.wav",
+    "archive": "sci-fi_sounds.zip",
+    "sourceFile": "Audio/impactMetal_000.ogg",
+    "sourceSha256": "956C6612A256AA1A67A2327FFFE2454F6B1D82E4C1C2BE28FD66916335D5B1D6",
+    "sha256": "B532C0080F0EA406CC43E38BD62DFB0B90809313635573AB06D6E79699B9C9A5"
+  },
+  {
+    "file": "enemy-burn.wav",
+    "archive": "sci-fi_sounds.zip",
+    "sourceFile": "Audio/laserSmall_000.ogg",
+    "sourceSha256": "72B589EADD41781257AC859E4F4D030222E623390E4A1A83F6D05329A6E026F1",
+    "sha256": "215ADCBE17391A844A8B0E0AF4D4AD0B4AF8C4A7FCAB966FDA3A2F8B4B8F88E4"
+  },
+  {
+    "file": "round-clear.wav",
+    "archive": "kenney_interfaceSounds.zip",
+    "sourceFile": "Audio/confirmation_002.ogg",
+    "sourceSha256": "33B17A9A9A2397C62B285C52C33A907FDFFB476909C99E42DDE603F6A7A8B12C",
+    "sha256": "CB63765E0D2798094B103ECFB89A7BFC881416AB39EA8D88FC2FD88AACA6EC63"
+  },
+  {
+    "file": "game-over.wav",
+    "archive": "kenney_interfaceSounds.zip",
+    "sourceFile": "Audio/error_004.ogg",
+    "sourceSha256": "0B574CEA597D96507E782AE9764F88482CE49F46E931E57054BF7150047F2D69",
+    "sha256": "FE48EF74A31F928610236C6BE019FAF3820916E79F1AAB475ADE0A230604F88A"
+  },
+  {
+    "file": "purchase.wav",
+    "archive": "kenney_interfaceSounds.zip",
+    "sourceFile": "Audio/confirmation_004.ogg",
+    "sourceSha256": "568967A3D9F8A8F6AF54EA01729C4882284308F2A27D78C07FFD7EE0D6951661",
+    "sha256": "3CA6DAB2C8FF4FA84D8FD309B538234573E0DD4713C0C604C1330CD526B35BDB"
+  },
+  {
+    "file": "error.wav",
+    "archive": "kenney_interfaceSounds.zip",
+    "sourceFile": "Audio/error_001.ogg",
+    "sourceSha256": "46E67425D16339772E8D328FB36A49426C9467418686E11BEEB71FF84B0F6433",
+    "sha256": "5DC8A3362249CF0C170EC5BF569192709134D9B777C71EEFF3DF599359BE27AF"
+  },
+  {
+    "file": "outer-space.wav",
+    "sourceFile": "https://opengameart.org/sites/default/files/outer_space_2.mp3",
+    "sourceSha256": "A47FD0A3B89B697203B7B3BDBAEDD6C02F1AAE663A723F4287F3C1181C37115E",
+    "sha256": "8AF192D2F22D2D15F5E38AFCD613BBFFAC60BA243C0A908D25D802249AC7AC28"
+  }
+]

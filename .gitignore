@@ -1,0 +1,55 @@
+# Reproducible build output and IDE caches
+/build/
+/dist/
+/bin/
+*.class
+*.log
+
+# Local progress, backups, and audio preferences
+/data/
+
+# Keep private notes local; only the public root README is published.
+*.[mM][dD]
+!/README.md
+
+# Local IDE/editor and operating-system state
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Machine-local configuration and temporary exports
+.env
+.env.*
+*.tmp
+hs_err_pid*
+replay_pid*
+
+# Superseded tooling and unused external-library downloads
+/nbproject/
+/build.xml
+/lib/
+
+# Local regression tests and their developer-only runner
+/test/
+/scripts/check-project.ps1
+
+/docs/*
+!/docs/previews/
+/docs/previews/*
+!/docs/previews/home.png
+!/docs/previews/gameplay.png
+!/docs/previews/shop.png
+!/docs/previews/pause.png

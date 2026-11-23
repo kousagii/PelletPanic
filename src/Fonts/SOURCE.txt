@@ -1,0 +1,10 @@
+Space Grotesk 2.0
+Copyright 2020 The Space Grotesk Project Authors
+https://github.com/floriankarsten/space-grotesk
+
+Unmodified static OpenType fonts obtained from the author's repository:
+fonts/otf/SpaceGrotesk-Regular.otf
+fonts/otf/SpaceGrotesk-Bold.otf
+
+Licensed under SIL Open Font License 1.1; see OFL.txt in this directory.
+Bundled for offline use; no system font installation is needed.

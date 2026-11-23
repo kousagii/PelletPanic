@@ -1,0 +1,12 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [],
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "files.exclude": {
+    "**/*.class": true,
+    "build": true,
+    "dist": true,
+    "bin": true
+  }
+}

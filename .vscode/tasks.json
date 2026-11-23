@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Pellet Panic: build",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "${workspaceFolder}/scripts/project.ps1", "Build"],
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": "$javac"
+    },
+    {
+      "label": "Pellet Panic: run",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "${workspaceFolder}/scripts/project.ps1", "Run"],
+      "problemMatcher": "$javac"
+    }
+  ]
+}

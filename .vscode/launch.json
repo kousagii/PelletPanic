@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug Pellet Panic",
+      "request": "launch",
+      "mainClass": "pelletpanic.GameFrame",
+      "classPaths": ["${workspaceFolder}/build/classes"],
+      "sourcePaths": ["${workspaceFolder}/src"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "preLaunchTask": "Pellet Panic: build"
+    }
+  ]
+}
